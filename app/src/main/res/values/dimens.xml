@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="etNameMargin">25dp</dimen>
+    <dimen name="etAttemptsMargin">25dp</dimen>
+    <dimen name="btStartMargin">25dp</dimen>
+    <dimen name="linearLayout">30dp</dimen>
+    <dimen name="etNumberMargin">25dp</dimen>
+    <dimen name="tvHighOrLowMargin">25dp</dimen>
+    <dimen name="btPlayMargin">25dp</dimen>
+    <dimen name="btRetryMargin">25dp</dimen>
+    <dimen name="tvWinOrLoseMargin">25dp</dimen>
+    <dimen name="tbNumberOfAttemptsMargin">25dp</dimen>
+    <dimen name="tvNumberMargin">25dp</dimen>
+</resources>

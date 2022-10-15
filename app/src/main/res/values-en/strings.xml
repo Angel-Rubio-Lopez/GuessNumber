@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GuessNumber</string>
+    <string name="etAttemptsHint">Number of attemps</string>
+    <string name="etNameHint">Name</string>
+    <string name="btStart">¡Play!</string>
+    <string name="etNumberHint">Put a number</string>
+    <string name="btPlay">Check</string>
+    <string name="btRetry">Retry</string>
+    <string name="aboutMe">About us</string>
+    <string name="aboutName">Ángel Rubio López</string>
+    <string name="aboutSubTitle">programmer</string>
+    <string name="aboutBrief">Application with which you will have to guess a random number between 0 and 100</string>
+</resources>

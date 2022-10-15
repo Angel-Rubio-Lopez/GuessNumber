@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GuessNumber</string>
+    <string name="etAttemptsHint">Número de intentos</string>
+    <string name="etNameHint">Nombre</string>
+    <string name="btStart">¡A jugar!</string>
+    <string name="etNumberHint">Introduce un número</string>
+    <string name="btPlay">Comprobar</string>
+    <string name="btRetry">Reintentar</string>
+    <string name="aboutMe">Sobre mi</string>
+    <string name="aboutName">Ángel Rubio López</string>
+    <string name="aboutSubTitle">Programador</string>
+    <string name="aboutBrief">Aplicación con la cual tendras que adivinar un número aletorio entre 0 y 100</string>
+</resources>
