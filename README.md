@@ -11,6 +11,6 @@ intentos pasaremos a la tercera y ultima activity. En esta podremos ver la infor
 si has ganado o perdido y en el caso de que hayas perdido cual era el numero secreto. Adjunto imagenes:
 
 ![WhatsApp Image 2022-10-15 at 22 22 02](https://user-images.githubusercontent.com/102852923/196006221-fecd6216-78f0-4474-9259-9ffc81cf8a07.jpeg)
-![WhatsApp Image 2022-10-15 at 22 22 02 (1)](https://user-images.githubusercontent.com/102852923/196006223-0fda7d0b-55b5-4a55-a212-5349513bb159.jpeg)
 ![WhatsApp Image 2022-10-15 at 22 22 03](https://user-images.githubusercontent.com/102852923/196006224-da1c85a4-ea7b-4e01-8236-0130124426ac.jpeg)
 ![WhatsApp Image 2022-10-15 at 22 22 04](https://user-images.githubusercontent.com/102852923/196006225-03e5d6df-fd26-42fa-b1fc-52a579933430.jpeg)
+![WhatsApp Image 2022-10-15 at 22 22 02 (1)](https://user-images.githubusercontent.com/102852923/196006223-0fda7d0b-55b5-4a55-a212-5349513bb159.jpeg)
